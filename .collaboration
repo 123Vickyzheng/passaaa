@@ -14,35 +14,11 @@
   "state" : "Unlocked",
   "resourceType" : "File"
 }, {
-  "moduleType" : "global-event-handler",
-  "moduleName" : "客户端全局事件",
-  "state" : "Unlocked",
-  "resourceType" : "Folder",
-  "resourceId" : "client-global-event"
-}, {
-  "moduleType" : "global-event-handler",
-  "moduleName" : "客户端全局事件/requestCompleted",
-  "state" : "Unlocked",
-  "resourceType" : "Document",
-  "resourceId" : "ZW9FF4QA"
-}, {
-  "moduleType" : "global-event-handler",
-  "moduleName" : "服务端全局事件",
-  "state" : "Unlocked",
-  "resourceType" : "Folder",
-  "resourceId" : "server-global-event"
-}, {
   "moduleType" : "theme",
-  "moduleName" : "默认主题",
+  "moduleName" : "商务主题",
   "state" : "Unlocked",
   "resourceType" : "Document",
-  "resourceId" : "phoenix.builtin.normal"
-}, {
-  "moduleType" : "theme",
-  "moduleName" : "清新主题",
-  "state" : "Unlocked",
-  "resourceType" : "Document",
-  "resourceId" : "phoenix.builtin.fresh"
+  "resourceId" : "phoenix.builtin.business"
 }, {
   "moduleType" : "theme",
   "moduleName" : "教育主题",
@@ -51,106 +27,34 @@
   "resourceId" : "phoenix.builtin.education"
 }, {
   "moduleType" : "theme",
+  "moduleName" : "暗色主题",
+  "state" : "Unlocked",
+  "resourceType" : "Document",
+  "resourceId" : "phoenix.builtin.dark-night"
+}, {
+  "moduleType" : "theme",
+  "moduleName" : "清新主题",
+  "state" : "Unlocked",
+  "resourceType" : "Document",
+  "resourceId" : "phoenix.builtin.fresh"
+}, {
+  "moduleType" : "theme",
   "moduleName" : "电商主题",
   "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "phoenix.builtin.ecommerce"
 }, {
   "moduleType" : "theme",
-  "moduleName" : "商务主题",
+  "moduleName" : "默认主题",
   "state" : "Unlocked",
   "resourceType" : "Document",
-  "resourceId" : "phoenix.builtin.business"
-}, {
-  "moduleType" : "theme",
-  "moduleName" : "暗色主题",
-  "state" : "Unlocked",
-  "resourceType" : "Document",
-  "resourceId" : "phoenix.builtin.dark-night"
-}, {
-  "moduleType" : "page",
-  "moduleName" : "PC",
-  "state" : "Unlocked",
-  "resourceType" : "Folder",
-  "resourceId" : "T29CNE0R"
-}, {
-  "moduleType" : "page",
-  "moduleName" : "PC/系统页面",
-  "state" : "Unlocked",
-  "resourceType" : "Folder",
-  "resourceId" : "DA4N3RA7"
-}, {
-  "moduleType" : "page",
-  "moduleName" : "PC/系统页面/登录页",
-  "state" : "Unlocked",
-  "resourceType" : "Document",
-  "resourceId" : "FBUO7165"
-}, {
-  "moduleType" : "page",
-  "moduleName" : "PC/系统页面/401无权限页面",
-  "state" : "Unlocked",
-  "resourceType" : "Document",
-  "resourceId" : "D4MX1D0F"
-}, {
-  "moduleType" : "page",
-  "moduleName" : "PC/系统页面/404未发现页面",
-  "state" : "Unlocked",
-  "resourceType" : "Document",
-  "resourceId" : "EJ5JIRNF"
-}, {
-  "moduleType" : "page",
-  "moduleName" : "PC/页面1",
-  "state" : "Unlocked",
-  "resourceType" : "Document",
-  "resourceId" : "EX01O6ZP"
-}, {
-  "moduleType" : "page",
-  "moduleName" : "移动端",
-  "state" : "Unlocked",
-  "resourceType" : "Folder",
-  "resourceId" : "IOBSARM3"
-}, {
-  "moduleType" : "page",
-  "moduleName" : "移动端/页面",
-  "state" : "Unlocked",
-  "resourceType" : "Folder",
-  "resourceId" : "BUELZ52V"
-}, {
-  "moduleType" : "page",
-  "moduleName" : "移动端/页面组件",
-  "state" : "Unlocked",
-  "resourceType" : "Folder",
-  "resourceId" : "EBYVLX44"
-}, {
-  "moduleType" : "static-resource",
-  "moduleName" : "文件",
-  "state" : "Unlocked",
-  "resourceType" : "Folder",
-  "resourceId" : "ZILTAJTZ"
+  "resourceId" : "phoenix.builtin.normal"
 }, {
   "moduleType" : "logic",
   "moduleName" : "服务端逻辑",
   "state" : "Unlocked",
   "resourceType" : "Folder",
   "resourceId" : "server"
-}, {
-  "moduleType" : "logic",
-  "moduleName" : "服务端逻辑/系统逻辑",
-  "state" : "Unlocked",
-  "resourceType" : "Folder",
-  "resourceId" : "H4XJYAV2"
-}, {
-  "moduleType" : "logic",
-  "moduleName" : "服务端逻辑/系统逻辑/登录",
-  "state" : "Unlocked",
-  "resourceType" : "Document",
-  "resourceId" : "QP9XU1TR"
-}, {
-  "moduleType" : "logic",
-  "moduleName" : "服务端逻辑/系统逻辑/获取登录配置",
-  "state" : "Unlocked",
-  "resourceType" : "Document",
-  "resourceId" : "ZVM5I3GH"
 }, {
   "moduleType" : "logic",
   "moduleName" : "集成",
@@ -217,10 +121,4 @@
   "state" : "Unlocked",
   "resourceType" : "Folder",
   "resourceId" : "client-global-variable"
-}, {
-  "moduleType" : "datasource",
-  "moduleName" : "默认数据源",
-  "state" : "Unlocked",
-  "resourceType" : "Document",
-  "resourceId" : "JTY5FU53"
 } ]
